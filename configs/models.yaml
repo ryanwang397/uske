@@ -1,0 +1,4 @@
+# Backbones used in the paper.  Aliases map to Hugging Face checkpoints.
+codellama-7b:     codellama/CodeLlama-7b-Instruct-hf
+qwen2.5-coder-3b: Qwen/Qwen2.5-Coder-3B-Instruct
+qwen3-14b:        Qwen/Qwen3-14B          # Appendix I.1 generalization experiment (Python only)
